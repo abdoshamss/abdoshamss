@@ -3,12 +3,15 @@
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="abdo_shamss_photo.jpeg" alt="Abdo Shamss" width="400" style="border-radius: 10px; border: 2px solid #ccc;" />
+  <img src="abdo_shamss_photo.jpeg" alt="Abdo Shamss" width="300" height="300" style="border-radius: 10px; border: 2px solid #ccc;" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Mobile+App+Developer;Flutter+%26+Dart+Expert;Clean+Code+Lover;Team+Contributor;Always+Learning+🚀" />
 </p>
+
+
+
 
 ---
 
