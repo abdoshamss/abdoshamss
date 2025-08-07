@@ -3,18 +3,25 @@
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Mobile+App+Developer;Flutter+%26+Dart+Expert;Clean+Code+Lover;Always+Learning+🚀" />
+  <img src="abdo_shamss_photo.jpeg" alt="Abdo Shamss" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Mobile+App+Developer;Flutter+%26+Dart+Expert;Clean+Code+Lover;Team+Contributor;Always+Learning+🚀" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **mobile applications using Flutter**
-- 🌱 I’m currently learning **clean architecture, Bloc, and backend basics**
-- 🧠 I love solving problems & building beautiful UIs
-- 📫 How to reach me: **abdoshamss@example.com**
-- ⚡ Fun fact: *I started coding with curiosity, now I live it daily.*
+- 🔭 Flutter Developer at **Almasader Alaqamia**
+- 🌱 Studying Computer Science at Mansoura University (since 09/2023)
+- 💼 Previous Flutter Training at **Alalmiya Alhura Company** (09/2024 – 04/2024)
+- 🧑‍🏫 Mentor at **Circle Flutter** (student activity)
+- 👥 Collaborated with the team at **Breaking Point**
+- 🏆 Named **Super Developer of the Month (July)** at Almasader – [View post](https://www.linkedin.com/posts/almasader4it_superdeveloperofthemonth-almasaderalraqmiateam-activity-7357708060645015552-23B2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxVDjEBmpxmKFqTAirT05YcBlLekIFgk84)
+- 📄 [Download My CV](https://drive.google.com/file/d/172wOLVrzPRR0J4Qhi-0LB8VU5r7P3VHA/view?usp=sharing)
+- 📫 Reach me: **abdoshamss@example.com**
 
 ---
 
@@ -29,6 +36,17 @@
 
 ---
 
+## 📱 Projects
+
+- 🎉 [جادر - Party/Event Booking App (Android/iOS)](https://play.google.com/store/apps/details?id=com.masader.jader.jader)
+- 🚚 [نقیل - Employee Transfer App](https://play.google.com/store/apps/details?id=com.masader.naqel.naqel)
+- 🏍 [دبابك - Motorcycle Trade App](https://play.google.com/store/apps/details?id=com.masader.dbabk)
+- 🏗 [أعمال الخليج - Construction Rental App](https://play.google.com/store/apps/details?id=com.masader.gulfBussiness)
+- ⚖ [وثاق - Legal Consultation App](https://play.google.com/store/apps/details?id=com.masader.weissak)
+- 🛍 [بلدنا - Advertising & Commerce App](https://play.google.com/store/apps/details?id=com.masader.baladna)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -38,7 +56,7 @@
 
 ---
 
-## 📱 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdo-shamss-041ba0242/" target="_blank">
@@ -54,11 +72,11 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 Currently Learning
 
-- 🔷 Clean Architecture
-- 🔷 Bloc Pattern
-- 🔷 Backend with Node.js (for APIs)
+- Clean Architecture in Flutter
+- Bloc State Management
+- Backend APIs with Node.js
 
 ---
 
