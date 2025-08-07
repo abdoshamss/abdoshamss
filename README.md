@@ -18,10 +18,10 @@
 - 🌱 Studying Computer Science at Mansoura University (since 09/2023)
 - 💼 Previous Flutter Training at **Alalmiya Alhura Company** (09/2024 – 04/2024)
 - 🧑‍🏫 Mentor at **Circle Flutter** (student activity)
-- 👥 Collaborated with the team at **Breaking Point**
+- 👥 Collaborated with the team at **Breakin Point**
 - 🏆 Named **Super Developer of the Month (July)** at Almasader – [View post](https://www.linkedin.com/posts/almasader4it_superdeveloperofthemonth-almasaderalraqmiateam-activity-7357708060645015552-23B2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxVDjEBmpxmKFqTAirT05YcBlLekIFgk84)
 - 📄 [Download My CV](https://drive.google.com/file/d/172wOLVrzPRR0J4Qhi-0LB8VU5r7P3VHA/view?usp=sharing)
-- 📫 Reach me: **abdoshamss@example.com**
+- 📫 Reach me: **abdoshams2005@gmail.com**
 
 ---
 
@@ -65,18 +65,10 @@
   <a href="https://www.instagram.com/abdoshamss" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-abdoshamss-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:abdoshamss@example.com">
+  <a href="mailto:abdoshams2005@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-abdoshamss@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
-
-## 🎯 Currently Learning
-
-- Clean Architecture in Flutter
-- Bloc State Management
-- Backend APIs with Node.js
 
 ---
 
