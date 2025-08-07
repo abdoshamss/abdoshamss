@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="abdo_shamss_photo.jpeg" alt="Abdo Shamss" width="250" style="border-radius: 10px; border: 2px solid #ccc;" />
+  <img src="abdo_shamss_photo.jpeg" alt="Abdo Shamss" width="200" style="border-radius: 10px; border: 2px solid #ccc;" />
 </p>
 
 <p align="center">
