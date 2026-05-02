@@ -22,7 +22,7 @@
 - 🧑‍🏫 Mentor at **Circle Flutter** (student activity)
 - 👥 Collaborated with the team at **Breakin Point**
 - 🏆 Named **Super Developer of the Month (July)** at Almasader – [View post](https://www.linkedin.com/posts/almasader4it_superdeveloperofthemonth-almasaderalraqmiateam-activity-7357708060645015552-23B2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxVDjEBmpxmKFqTAirT05YcBlLekIFgk84)
-- 📄 [Show My CV](https://flowcv.com/resume/csomeeg7uwnq)
+// - 📄 [Show My CV](https://flowcv.com/resume/csomeeg7uwnq)
 - 📫 Reach me: **abdoshams2005@gmail.com**
 
 ---
