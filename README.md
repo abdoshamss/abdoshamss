@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Flutter Developer at **Alalmiya Alhura** (since 03/2026)
-- 🌱 Studying Computer Science at Mansoura University (since 09/2023)
+- 🔭 Flutter Developer at **Alalmiya Alhura** (since 03/2026 - Present)
+- 🌱 Studying Computer Science at Mansoura University (since 09/2023 - Graduated 07/2027)
 - 💻 Previous Flutter Developer at **SubCode** (Part-time Remote, 09/2025 – 04/2026)
 - 💼 Previous Flutter Developer at **Almasader Alaqamia** (Full-time Onsite, 09/2024 – 03/2026)
-- 🎓 Previous Flutter Training at **Alalmiya Alhura Company** (09/2024 – 04/2024)
+- 🎓 Previous Flutter Training at **Alalmiya Alhura Company** (09/2023 – 04/2024)
 - 🧑‍🏫 Mentor at **Circle Flutter** (student activity)
 - 👥 Collaborated with the team at **Breakin Point**
 - 🏆 Named **Super Developer of the Month (July)** at Almasader – [View post](https://www.linkedin.com/posts/almasader4it_superdeveloperofthemonth-almasaderalraqmiateam-activity-7357708060645015552-23B2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxVDjEBmpxmKFqTAirT05YcBlLekIFgk84)
