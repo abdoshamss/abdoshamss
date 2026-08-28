@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#02569B"/><stop offset="0.5" stop-color="#0175C2"/><stop offset="1" stop-color="#36BCF7"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <style>
+      text { font-family: ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace; text-anchor:middle; }
+      .dot { animation: b 2.6s ease-in-out infinite; }
+      .d2 { animation-delay:.35s } .d3 { animation-delay:.7s }
+      @keyframes b { 0%,100%{opacity:.25} 50%{opacity:1} }
+    </style>
+  </defs>
+  <rect width="1200" height="96" fill="url(#fade)"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#ac)"/>
+  <text x="600" y="46" font-size="13" fill="#6E7681" letter-spacing="1.6">Thanks for scrolling. Let us build something.</text>
+  <g>
+    <circle class="dot"     cx="576" cy="68" r="3.4" fill="#36BCF7"/>
+    <circle class="dot d2"  cx="600" cy="68" r="3.4" fill="#0175C2"/>
+    <circle class="dot d3"  cx="624" cy="68" r="3.4" fill="#02569B"/>
+  </g>
+</svg>

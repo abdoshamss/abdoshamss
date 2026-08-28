@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Abdo Shamss - Flutter Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="0.55" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#090E18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#02569B"/><stop offset="0.5" stop-color="#0175C2"/><stop offset="1" stop-color="#36BCF7"/>
+    </linearGradient>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-420" y1="0" x2="-120" y2="0">
+      <stop offset="0" stop-color="#36BCF7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#DCF4FF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#36BCF7" stop-opacity="0"/>
+      <animate attributeName="x1" values="-420;1200" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-120;1500" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.1" fill="#18202D"/>
+    </pattern>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+    <clipPath id="screen"><rect x="958" y="58" width="172" height="228" rx="18"/></clipPath>
+    <style>
+      /* content is always visible; motion is ambient only */
+      .drift  { animation: drift 14s ease-in-out infinite alternate; }
+      .drift2 { animation: drift 18s ease-in-out infinite alternate-reverse; }
+      @keyframes drift { from{transform:translate(0,0)} to{transform:translate(60px,-34px)} }
+      .row { animation: row 3.6s ease-in-out infinite; }
+      @keyframes row { 0%,100%{opacity:.45} 50%{opacity:1} }
+      .r2{animation-delay:.5s}.r3{animation-delay:1s}
+      .caret { animation: blink 1.05s steps(1) infinite; }
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      .ring { animation: ring 4.5s ease-out infinite; transform-origin: 1044px 172px; }
+      @keyframes ring { 0%{transform:scale(.75);opacity:.5} 100%{transform:scale(1.25);opacity:0} }
+      text { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#dots)"/>
+  <g opacity="0.5">
+    <circle class="drift"  cx="180" cy="70"  r="120" fill="#0175C2" opacity="0.30" filter="url(#soft)"/>
+    <circle class="drift2" cx="1010" cy="290" r="140" fill="#36BCF7" opacity="0.20" filter="url(#soft)"/>
+  </g>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#accent)" opacity="0.9"/>
+
+  <!-- left column -->
+  <g class="fadeUp d1">
+    <text class="mono" x="70" y="86" font-size="13" letter-spacing="4.4" fill="#36BCF7">MOBILE · CROSS-PLATFORM · PRODUCTION</text>
+  </g>
+  <g class="fadeUp d2">
+    <text x="68" y="162" font-size="64" font-weight="700" letter-spacing="1.5" fill="#E6EDF3">ABDO SHAMSS</text>
+    <text x="68" y="162" font-size="64" font-weight="700" letter-spacing="1.5" fill="url(#shine)">ABDO SHAMSS</text>
+  </g>
+  <g class="fadeUp d3">
+    <text x="70" y="200" font-size="25" font-weight="600" fill="#8B949E">Flutter Developer</text>
+    <rect x="70" y="216" width="150" height="3" rx="1.5" fill="url(#accent)"/>
+  </g>
+  <g class="fadeUp d4">
+    <text class="mono" x="70" y="252" font-size="15" fill="#6E7681">building apps people actually use</text>
+    <rect class="caret" x="376" y="238" width="9" height="18" fill="#36BCF7"/>
+  </g>
+  <g class="fadeUp d5">
+    <g fill="#0D1117">
+      <rect x="70"  y="278" width="66" height="26" rx="13" fill="#123A5E" stroke="#1E5C8F"/>
+      <rect x="144" y="278" width="52" height="26" rx="13" fill="#123A5E" stroke="#1E5C8F"/>
+      <rect x="204" y="278" width="54" height="26" rx="13" fill="#123A5E" stroke="#1E5C8F"/>
+      <rect x="266" y="278" width="76" height="26" rx="13" fill="#123A5E" stroke="#1E5C8F"/>
+      <rect x="350" y="278" width="84" height="26" rx="13" fill="#123A5E" stroke="#1E5C8F"/>
+    </g>
+    <g class="mono" fill="#8FD3F7" font-size="12" text-anchor="middle">
+      <text x="103" y="295">Flutter</text><text x="170" y="295">Dart</text><text x="231" y="295">Bloc</text>
+      <text x="304" y="295">Firebase</text><text x="392" y="295">REST APIs</text>
+    </g>
+  </g>
+
+  <!-- right: device -->
+  <g class="fadeUp d6">
+    <circle class="ring" cx="1044" cy="172" r="118" fill="none" stroke="#36BCF7" stroke-width="1.5"/>
+    <rect x="950" y="42" width="188" height="260" rx="26" fill="#0F1620" stroke="#233043" stroke-width="1.5"/>
+    <rect x="1020" y="52" width="48" height="7" rx="3.5" fill="#233043"/>
+    <g clip-path="url(#screen)">
+      <rect x="958" y="58" width="172" height="46" fill="url(#accent)" opacity="0.22"/>
+      <rect x="972" y="74" width="82" height="9" rx="4.5" fill="url(#accent)"/>
+      <rect x="972" y="89" width="52" height="6" rx="3" fill="#2A3B52"/>
+      <g class="row">
+        <rect x="972" y="118" width="144" height="40" rx="10" fill="#141D29" stroke="#1F2B3B"/>
+        <circle cx="990" cy="138" r="8" fill="#36BCF7" opacity="0.85"/>
+        <rect x="1006" y="130" width="70" height="6" rx="3" fill="#31435C"/>
+        <rect x="1006" y="142" width="44" height="5" rx="2.5" fill="#25344A"/>
+      </g>
+      <g class="row r2">
+        <rect x="972" y="166" width="144" height="40" rx="10" fill="#141D29" stroke="#1F2B3B"/>
+        <circle cx="990" cy="186" r="8" fill="#0175C2" opacity="0.85"/>
+        <rect x="1006" y="178" width="84" height="6" rx="3" fill="#31435C"/>
+        <rect x="1006" y="190" width="38" height="5" rx="2.5" fill="#25344A"/>
+      </g>
+      <g class="row r3">
+        <rect x="972" y="214" width="144" height="40" rx="10" fill="#141D29" stroke="#1F2B3B"/>
+        <circle cx="990" cy="234" r="8" fill="#02569B" opacity="0.85"/>
+        <rect x="1006" y="226" width="62" height="6" rx="3" fill="#31435C"/>
+        <rect x="1006" y="238" width="52" height="5" rx="2.5" fill="#25344A"/>
+      </g>
+      <rect x="958" y="268" width="172" height="18" fill="#0B121C"/>
+      <circle cx="1000" cy="277" r="3.4" fill="#36BCF7"/><circle cx="1044" cy="277" r="3.4" fill="#2A3B52"/><circle cx="1088" cy="277" r="3.4" fill="#2A3B52"/>
+    </g>
+  </g>
+  <rect x="0" y="338" width="1200" height="2" fill="url(#accent)" opacity="0.5"/>
+</svg>

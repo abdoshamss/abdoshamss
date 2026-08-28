@@ -1,36 +1,18 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:36BCF7&height=200&section=header&text=Abdo%20Shamss&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%E2%80%A2%20Building%20apps%20people%20actually%20use&descAlignY=55&descSize=18" />
+<!-- ══════════════════════ HERO ══════════════════════ -->
+<img width="100%" src="assets/hero.svg" alt="Abdo Shamss — Flutter Developer" />
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdo-shamss-041ba0242/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:abdoshams2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/abdoshamss">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/abdo-shamss-041ba0242/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdoshams2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/201033429389"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/abdoshamss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Mansoura,%20Egypt-1F2937?style=flat-square&logo=googlemaps&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=abdoshamss&style=flat-square&color=02569B&label=Profile+Views" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=560&lines=Flutter+Developer+with+2%2B+years+of+experience;12%2B+apps+shipped+to+Google+Play+%26+App+Store;60%2C000%2B+downloads+in+production;Bloc+%C2%B7+Clean+Architecture+%C2%B7+REST+%C2%B7+Firebase" />
-
 </div>
 
-<!-- ═══════════════════════ STATS STRIP ═══════════════════════ -->
-<div align="center">
-
-|  📱 Apps Published  |  ⬇️ Downloads  |  🏬 Stores  |  🗓️ Experience  |
-| :-----------------: | :------------: | :---------: | :-------------: |
-|       **12+**       |    **60K+**    |   **2**     |   **2+ yrs**    |
-
-</div>
-
----
+<br/>
 
 ## 🧑‍💻 About Me
 
@@ -47,7 +29,7 @@ const abdo = Developer(
   role: 'Flutter Developer',
   focus: ['Cross-platform apps', 'Clean Architecture', 'Store releases'],
   stack: ['Flutter', 'Dart', 'Bloc/Cubit', 'REST', 'Firebase'],
-  shipped: '12+ apps · 60K+ downloads',
+  shipped: '100+ apps · 60K+ downloads',
   studying: 'B.Sc. Computer Science — Mansoura University',
   motto: 'Write it clean. Ship it. Then make it faster.',
 );
@@ -68,51 +50,15 @@ const abdo = Developer(
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ══════════════════════ STACK ══════════════════════ -->
+<img width="100%" src="assets/stack.svg" alt="Tech stack" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,androidstudio,vscode,postman&theme=dark" />
-
-</div>
-
-<table>
-<tr><td><b>Language</b></td><td>Dart</td></tr>
-<tr><td><b>Framework &amp; State</b></td><td>Flutter · Bloc · Cubit</td></tr>
-<tr><td><b>Architecture</b></td><td>Clean Architecture · Clean Code · OOP · SOLID mindset</td></tr>
-<tr><td><b>Networking &amp; Backend</b></td><td>REST APIs · Dio · Firebase · FCM</td></tr>
-<tr><td><b>Local Storage</b></td><td>Hive · Shared Preferences</td></tr>
-<tr><td><b>Real-Time &amp; Maps</b></td><td>Pusher · Google Maps</td></tr>
-<tr><td><b>Tools &amp; DevOps</b></td><td>Git · GitHub · Mason CLI · Codemagic</td></tr>
-<tr><td><b>App Publishing</b></td><td>Google Play · Apple App Store · Certificates · Provisioning Profiles · Keystore</td></tr>
-</table>
-
----
-
-## 💼 Experience
-
-```text
-2026 ──● Flutter Developer · Al Almiya Alhura            Full-time · On-site · Mansoura
-        │ Production Flutter apps, new features, REST & 3rd-party integrations,
-        │ performance tuning.
-        │
-2025 ──● Flutter Developer · Sub Code                    Part-time · Remote
-        │ Built and evolved two mobile apps, shipped continuous improvements.
-        │
-2025 ──● Flutter Head & Instructor · Breakin Point Team   Hybrid · Mansoura
-        │ Led the Flutter team, delivered workshops, mentored students
-        │ through capstone projects.
-        │
-2024 ──● Flutter Developer · Almasader Alraqmia          Full-time · On-site · Mansoura
-        │ Production cross-platform apps end to end — 10+ store releases.
-        │ 🏆 Super Developer of July 2025
-        │
-2023 ──● Flutter Developer (Internship) · Al Almiya Alhura   On-site · Mansoura
-        │ Hands-on Flutter & Dart training in a professional environment.
-        ▼
-```
+<!-- ══════════════════════ TIMELINE ══════════════════════ -->
+<img width="100%" src="assets/timeline.svg" alt="Career timeline" />
 
 <details>
 <summary><b>📋 Full role details</b></summary>
@@ -129,7 +75,7 @@ const abdo = Developer(
 
 </details>
 
----
+<br/>
 
 ## 📱 Featured Apps
 
@@ -230,57 +176,49 @@ Advocacy and legal consultation — connecting users with legal services.
 | **Roy Room Care** | Home cleaning bookings with responsive UI & scheduling | — | [App Store](https://apps.apple.com/us/app/roy-room-care/id6757122899) |
 </details>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdoshamss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoshamss&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdoshamss&theme=tokyonight" />
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoshamss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" />
+<img height="185" src="https://streak-stats.demolab.com/?user=abdoshamss&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdoshamss&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdoshamss&theme=tokyonight" />
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdoshamss&theme=tokyonight" />
+
+<br/>
+
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdoshamss&theme=tokyonight" />
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdoshamss&theme=tokyonight&utcOffset=2" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/abdoshamss/abdoshamss/output/snake.svg" alt="Contribution snake" />
 
 </div>
 
-<!-- Contribution snake — generated by .github/workflows/snake.yml -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abdoshamss/abdoshamss/output/snake.svg" alt="Contribution snake" />
-</div>
-
----
+<br/>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdo-shamss-041ba0242/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdo%20Shamss-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:abdoshams2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abdoshams2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/201033429389">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B20%20103%20342%209389-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/abdoshamss">
-  <img src="https://img.shields.io/badge/Instagram-abdoshamss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/abdo-shamss-041ba0242/"><img src="https://img.shields.io/badge/LinkedIn-Abdo%20Shamss-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdoshams2005@gmail.com"><img src="https://img.shields.io/badge/Email-abdoshams2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/201033429389"><img src="https://img.shields.io/badge/WhatsApp-%2B20%20103%20342%209389-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/abdoshamss"><img src="https://img.shields.io/badge/Instagram-abdoshamss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
 **Open to Flutter opportunities — remote, hybrid, or on-site.**
 
-<br/>
-
-<i>⭐ If something here is useful to you, a star goes a long way.</i>
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:0175C2,100:02569B&height=120&section=footer" />
+<img width="100%" src="assets/footer.svg" alt="" />
