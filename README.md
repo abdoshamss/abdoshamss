@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="68%" valign="top">
 
 I'm **Abdo Shamss**, a Flutter Developer from Mansoura, Egypt 🇪🇬 — I build and ship
 **production cross-platform apps** end to end: architecture, features, API integration,
@@ -42,9 +42,14 @@ const abdo = Developer(
 - 📫 **abdoshams2005@gmail.com**
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="32%" valign="top" align="center">
 
-<img src="abdo_shamss_photo.jpeg?v=3" alt="Abdo Shamss" width="100%" />
+<img src="assets/avatar.png" alt="Abdo Shamss" width="270" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat-square" />
+<img src="https://img.shields.io/badge/Mansoura,%20Egypt-1F2937?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </td>
 </tr>
